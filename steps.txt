@@ -1,0 +1,2 @@
+in order to customize boostrap you need to override the default style that bootstrap provide
+bootstrap use sass so we can change the value of variables that bootstap pick.
